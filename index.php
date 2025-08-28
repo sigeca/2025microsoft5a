@@ -69,7 +69,7 @@
     <h1>Historias de usuario</h1>
 
     <div class="container">
-        <div class="card">
+        <div class="card" style="background-color: lightblue;" >
             <div class="card-header">Alex Franco</div>
             <div class="card-body">
                 <p><span class="keyword">Como</span> estudiante xxxxx,</p>
