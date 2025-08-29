@@ -203,7 +203,7 @@
             <h2>Diseño de interfaces</h2>
             <div class="cards-grid">
                 <div class="card card-design-interface">
-                    <img src="https://via.placeholder.com/300" alt="Diseño de interfaz de login">
+                    <img src="login.png" alt="Diseño de interfaz de login">
                     <div class="card-description">Un diseño de interfaz simple y moderno para la página de inicio de sesión.</div>
                     <div class="card-author">Autor: Juan Pérez</div>
                 </div>
