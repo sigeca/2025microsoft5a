@@ -202,7 +202,7 @@
         const interfacesHTML = `
             <h2>Diseño de interfaces</h2>
             <div class="cards-grid">
-                <div class="card card-design-interface">
+                <div class="card card-design-interface" style="background-color: lightblue;">
                     <img src="login.png" alt="Diseño de interfaz de login">
                     <div class="card-description">Un diseño de interfaz simple y moderno para la página de inicio de sesión.</div>
                     <div class="card-author">Autor: Juan Pérez</div>
